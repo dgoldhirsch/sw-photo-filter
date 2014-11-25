@@ -13,6 +13,7 @@
 		3596C5251A212AD3006C7327 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3596C5241A212AD3006C7327 /* Images.xcassets */; };
 		3596C5281A212AD3006C7327 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3596C5261A212AD3006C7327 /* LaunchScreen.xib */; };
 		3596C5341A212AD3006C7327 /* sw_photo_filterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3596C5331A212AD3006C7327 /* sw_photo_filterTests.swift */; };
+		3596C53E1A212B3B006C7327 /* halloween.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3596C53D1A212B3B006C7327 /* halloween.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3596C52D1A212AD3006C7327 /* sw-photo-filterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "sw-photo-filterTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3596C5321A212AD3006C7327 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3596C5331A212AD3006C7327 /* sw_photo_filterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sw_photo_filterTests.swift; sourceTree = "<group>"; };
+		3596C53D1A212B3B006C7327 /* halloween.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = halloween.jpg; path = ../../../Pictures/halloween.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				3596C51F1A212AD3006C7327 /* ViewController.swift */,
 				3596C5211A212AD3006C7327 /* Main.storyboard */,
 				3596C5241A212AD3006C7327 /* Images.xcassets */,
+				3596C53D1A212B3B006C7327 /* halloween.jpg */,
 				3596C5261A212AD3006C7327 /* LaunchScreen.xib */,
 				3596C51B1A212AD3006C7327 /* Supporting Files */,
 			);
@@ -195,6 +198,7 @@
 				3596C5231A212AD3006C7327 /* Main.storyboard in Resources */,
 				3596C5281A212AD3006C7327 /* LaunchScreen.xib in Resources */,
 				3596C5251A212AD3006C7327 /* Images.xcassets in Resources */,
+				3596C53E1A212B3B006C7327 /* halloween.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
